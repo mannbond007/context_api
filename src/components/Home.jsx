@@ -94,7 +94,7 @@ const Hero = () => {
                         rounded-full border border-green-900
                         bg-green-700/15 text-xs"
         >
-          Join community of 1m+ founders
+         Connect with developers learning modern React together
         </div>
 
         {/* HEADING */}
@@ -104,11 +104,11 @@ const Hero = () => {
                        bg-gradient-to-r from-white to-[#748298]
                        text-transparent bg-clip-text"
         >
-          Unlock Growth with Proven Business Solutions
+         Learn, Build, and Scale with Modern Web Technologies
         </h1>
 
         <p className="text-slate-300 md:text-base text-center max-w-2xl mt-3">
-          Unlock potential with tailored strategies designed for success.
+          Building real-world React skills through hands-on development.
         </p>
 
         {/* CTA BUTTONS */}
